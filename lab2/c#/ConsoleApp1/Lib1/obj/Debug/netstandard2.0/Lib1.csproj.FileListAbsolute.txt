@@ -1,0 +1,9 @@
+C:\Users\админ\Desktop\Прога\lab2\c#\ConsoleApp1\Lib1\obj\Debug\netstandard2.0\Lib1.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\Прога\lab2\c#\ConsoleApp1\Lib1\obj\Debug\netstandard2.0\Lib1.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\Прога\lab2\c#\ConsoleApp1\Lib1\obj\Debug\netstandard2.0\Lib1.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\Прога\lab2\c#\ConsoleApp1\Lib1\obj\Debug\netstandard2.0\Lib1.AssemblyInfo.cs
+C:\Users\админ\Desktop\Прога\lab2\c#\ConsoleApp1\Lib1\bin\Debug\netstandard2.0\Lib1.deps.json
+C:\Users\админ\Desktop\Прога\lab2\c#\ConsoleApp1\Lib1\bin\Debug\netstandard2.0\Lib1.dll
+C:\Users\админ\Desktop\Прога\lab2\c#\ConsoleApp1\Lib1\bin\Debug\netstandard2.0\Lib1.pdb
+C:\Users\админ\Desktop\Прога\lab2\c#\ConsoleApp1\Lib1\obj\Debug\netstandard2.0\Lib1.dll
+C:\Users\админ\Desktop\Прога\lab2\c#\ConsoleApp1\Lib1\obj\Debug\netstandard2.0\Lib1.pdb
